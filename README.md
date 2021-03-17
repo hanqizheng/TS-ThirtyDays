@@ -6,7 +6,7 @@ TO BE CONTINUE;
 
 ## MENU
 
-- [day 0000 0001]()
+- [Day 0000 0001]()
   - [explain](https://github.com/hanqizheng/TS-ThirtyDays/blob/master/explain/day1.md)
   - [code](https://github.com/hanqizheng/TS-ThirtyDays/tree/master/code/day1.ts)
 
