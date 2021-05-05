@@ -1,6 +1,6 @@
 # Day 6 - Length of Tuple
 
-constrain type
+constraint https://www.typescriptlang.org/docs/handbook/2/functions.html#constraints
 
 ArrayType https://www.typescriptlang.org/docs/handbook/2/objects.html#the-array-type
 
